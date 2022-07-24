@@ -1,0 +1,74 @@
+body
+{
+        background-color:#f2f2f2;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         background-size: cover;
+	margin:0;
+	padding:0;
+}
+#header
+{	
+	width:100%;
+	height:40px;
+	background-color:#13A7C7;
+}
+#login
+{
+	width:1000px;
+	height:35px;
+	margin-left:auto;
+	margin-right:auto;
+        padding-top:12px;
+	color:#FFFFFF;
+	font-family: 'Trebuchet MS', Arial;
+        font-size:12px;
+	font-weight:bold;
+}
+.imgClass { 
+    background: url(images/search-ic.png) no-repeat;
+    width: 25px;
+    padding:5px;
+    margin-left:4px;
+    height: 20px;
+    border: 0px;
+
+}
+
+#page {
+	width: 1000px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 20px;
+	background:white;
+	font-family: 'Trebuchet MS', Arial;
+	font-size:14px;
+	color:#444;
+}
+#page12 {
+	width: 1000px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 20px;
+	background:white;
+	font-family: 'Trebuchet MS', Arial;
+	font-size:14px;
+	color:#444;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
