@@ -2,7 +2,7 @@
 School administration software for managing schools that includes parent portal, attendance, homework, grades, report cards, and more.
 
 <h3>About The Project</h3><hr/>
-<img src="/images/Screenshot 2022-07-24 at 3.00.09 PM.png" alt="Alt text" width="882" height="463" title="Screenshot">
+<img src="/images/Screenshot 2022-07-24 at 3.03.16 PM.png" alt="Alt text" width="882" height="463" title="Screenshot">
 
 <p>Bullpad is all-in-one software that provides you with a collection of potent tools to streamline school administration on a single platform. </p>
 
