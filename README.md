@@ -20,6 +20,15 @@ School administration software for managing schools that includes parent portal,
   <li>Apache</li>
 </ul>
 </p>
+<h3>Getting Started</h3><hr/>
+<p>This is an example of how you can set up dbTrigger project locally or on remote server.</p>
+<p>
+<ul>
+  <li>Download project by going to <code>Project directory > Code > Download Zip</code></li>
+  <li>Place downloaded project in local directory <code>c:\wamp\www</code> or remotely</li>
+  <li>Update <code>/student/dbconnect.php</code>, <code>/admin/dbconnect.php</code>, <code>/student/dbconnect.php</code> files with your servername,username and password <br/><code>$conn=mysql_connect('servername','username','password');</code></li>
+</ul>
+</p>
 <h3>License</h3><hr/>
 <p>
 Distributed under the MIT License. See LICENSE.txt for more information.</p>
