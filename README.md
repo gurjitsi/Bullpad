@@ -1,5 +1,5 @@
 # Bullpad
-School administration software for managing schools that includes parent portal, attendance, homework, grades, report cards, and more.
+School management software helps streamline administrative tasks, student data management, communication, and more within educational institutions. 
 
 <h3>About The Project</h3><hr/>
 <img src="/images/Screenshot 2022-07-24 at 3.03.16 PM.png" alt="Alt text" width="882" height="463" title="Screenshot">
@@ -7,8 +7,20 @@ School administration software for managing schools that includes parent portal,
 <p>Bullpad is all-in-one software that provides you with a collection of potent tools to streamline school administration on a single platform. </p>
 
 <p>Bullpad is software that handles management and cooperation for schools by bringing together parents, students, and teachers on a single platform. </p>
-
-<p>We as a team place a lot of emphasis on assistance and assisting schools in using our technology since we are aware that once they become accustomed to it, they will return to us with further ideas, which we assist them in implementing in order to keep them continuing.</p>
+<h3>Features</h3><hr/>
+<p>These platforms often offer various features such as:
+<ul>
+  <li>Student Information Management: Tracking student records, attendance, grades, and academic progress.</li>
+  <li>Teacher/Staff Management: Managing teacher schedules, attendance, and performance tracking.</li>
+  <li>Attendance Tracking: Automating attendance records for students and staff.</li>
+  <li>Gradebook and Exam Management: Recording and managing grades, creating exams, and generating reports.</li>
+  <li>Communication Tools: Facilitating communication between teachers, students, parents, and administrators through messaging, emails, or notifications.</li>
+  <li>Timetable/Scheduling: Creating and managing class schedules, room assignments, and extracurricular activities.</li>
+  <li>Fee Management: Handling fee collection, generating invoices, and tracking payment status.</li>
+  <li>Analytics and Reporting: Generating various reports for stakeholders to assess academic performance, attendance trends, financial status, etc.</li>
+  <li>Online Learning Support: Integrating e-learning tools, assignments, and online assessments.</li>
+</ul>
+</p>
 
 <h3>Built With</h3><hr/>
 <p>
